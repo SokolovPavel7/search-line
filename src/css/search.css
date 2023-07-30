@@ -98,7 +98,7 @@ body {
 .clear:before {
   position: absolute;
   content: '';
-  width: 1px;
+  width: 3px;
   height: 15px;
   background: #5f6368;
   transform: rotate(45deg);
@@ -106,7 +106,7 @@ body {
 .clear:after {
   position: absolute;
   content: '';
-  width: 1px;
+  width: 3px;
   height: 15px;
   background: #5f6368;
   transform: rotate(-45deg);
